@@ -23,6 +23,14 @@ H6, "######"
 Example: 
 "# H1" will look like
  # H1
+ "## H2" will look like
+ ## H2
+ "#### H3" will look like
+ ### H3
+ "#### H4" will look like
+ #### H4
+ "##### H5" will look like
+ ##### H5
  "###### H6" will look like
  ###### H6
 
