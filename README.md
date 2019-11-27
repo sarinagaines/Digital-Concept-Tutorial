@@ -13,8 +13,12 @@ According to Wikipedia, Markdown is a lightweight markup language with plain tex
 
 ## Headers
 
-For H1, use one "#" in front of the header, so "#"
-For H2, use two "#" in front of the header, so "##"
+For H1, use one "#" in front of the header, so "#".
+
+
+For H2, use two "#" in front of the header, so "##".
+
+
 H3, "###"
 H4, "####"
 H5, "#####"
