@@ -83,3 +83,7 @@ To add an image, follow this syntax:
 
 example: ! [ Hawaii ] ( https://content.api.news/v3/images/bin/70385b6abbafc9b79e84a9461b61be16?width=1280 ) without any spacing will output
 ![Hawaii](https://content.api.news/v3/images/bin/70385b6abbafc9b79e84a9461b61be16?width=1280)
+
+This concludes my tutorial on Markup, to learn about me click the link below!
+
+[About the creator](Aboutme.md)
