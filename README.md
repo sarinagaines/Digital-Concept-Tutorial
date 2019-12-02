@@ -3,6 +3,8 @@ A tutorial in markdown that is hosted on GitHub and focuses on a digital concept
 
 #  How to Use Markdown!
 ##### Created by Sarina Gaines
+[About the creator](Aboutme.md)
+
 
 
 #### What is the purpose of this tutorial?
@@ -11,7 +13,7 @@ The purpose of this tutorial is to give an introduction to what markdown is and 
 ### Who is this tutorial for?
 This tutorial is meant for anyone interested in learning what markdown is and the basics of how to use it. The targeted age group is anyone who can type and use a computer and for someone with no prior knowledge of markdown. 
 
-#### What is Markdown?
+### What is Markdown?
 According to Wikipedia, Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums and to create rich text using a plain text editor. [Click here to view the source of this information](https://en.wikipedia.org/wiki/Markdown)
 
 ## Headers
@@ -88,5 +90,3 @@ example: ! [ Hawaii ] ( https://content.api.news/v3/images/bin/70385b6abbafc9b79
 ![Hawaii](https://content.api.news/v3/images/bin/70385b6abbafc9b79e84a9461b61be16?width=1280)
 
 This concludes my tutorial on Markup, to learn about me click the link below!
-
-[About the creator](Aboutme.md)
